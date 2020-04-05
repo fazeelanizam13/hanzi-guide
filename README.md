@@ -1,4 +1,4 @@
-# [HanZi Guide](http://fazeelanizam.com/hanzi-guide)
+# [HanZi Guide](https://fazeelanizam13.github.io/hanzi-guide/)
 
 HanZi Guide is an app which displays basic information about a given Chinese character, such as its pronunciation, definition, number of strokes, frequency rank etc. according to the [Unihan database.](https://unicode.org/charts/unihan.html)
 
