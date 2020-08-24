@@ -1,0 +1,20 @@
+{
+  "short_name": "HanZiGuide",
+  "name": "HanZi Guide",
+  "icons": [
+    {
+      "src": "favicon1.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
