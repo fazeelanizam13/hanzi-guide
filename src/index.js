@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Main from './main'
+import Main from "./main";
 
-ReactDOM.render(<Main />, 
-                document.getElementById("box"));
+ReactDOM.render(<Main />, document.getElementById("box"));
