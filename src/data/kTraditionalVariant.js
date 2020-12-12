@@ -1,4 +1,4 @@
-export const traddata = {
+export const traditionalVariants = {
 	"㐽":["偑"],
 	"㑇":["㑳"],
 	"㑈":["倲"],

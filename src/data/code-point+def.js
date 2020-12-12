@@ -1,4 +1,4 @@
-export const ucndata = [
+export const codesAndDefinitions = [
   {
     "char": "㐀",
     "ucn": "U+3400",

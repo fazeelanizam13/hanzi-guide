@@ -1,4 +1,4 @@
-export const strokesdata = {
+export const strokeCounts = {
 	"㐀":[5],
 	"㐁":[6],
 	"㐂":[6],

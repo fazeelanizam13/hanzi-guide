@@ -1,4 +1,4 @@
-export const frqdata = {
+export const frequencies = {
 	"一":1,
 	"丁":4,
 	"七":3,

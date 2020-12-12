@@ -1,4 +1,4 @@
-export const prondata = {
+export const pronunciations = {
 	"㐀":"qiū",
 	"㐁":"tiàn",
 	"㐄":"kuà",

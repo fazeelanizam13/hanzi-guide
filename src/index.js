@@ -1,6 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-import Main from "./main";
+import React from "react"
+import ReactDOM from "react-dom"
+import "./index.css"
+import App from "./App"
 
-ReactDOM.render(<Main />, document.getElementById("box"));
+ReactDOM.render(<App />, document.getElementById("box"))
